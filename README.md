@@ -17,3 +17,7 @@ Being able to cut down on the codes length by optimizing originally 70 lines of 
 ## Lessons Learned:
 
 No matter what your experience level, being an engineer means continuously learning. Something you'd think as simple as a todo list would be a straight forward thing, but as I was coding this program, I learned that theres Thousands of ways I could have done it.
+
+## Whats Next?:
+
+Adding in a save feature where it can store the tasks in a cookie, or adding in a database with authentication would mean anyone could use this website as their online task list.
